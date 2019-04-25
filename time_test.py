@@ -32,7 +32,7 @@ clock=time()
 suite_geometrique()
 clock = time() - clock
 
-clock1=time()
+clock1=time() #recupére la valeur du temps d'exécution de codes 
 suite_arithmetique()
 clock1= time() - clock1
 
