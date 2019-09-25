@@ -1,3 +1,2 @@
-# Devoir_python
-C'est notre devoir en MATH_110
-#surtout ne fait pas ça à la maison.
+# PythonScript
+Ce sont des scripts de base en python pour bien commencer en python.
