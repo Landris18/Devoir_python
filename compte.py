@@ -1,13 +1,12 @@
 # COMPTER LES MOTS DANS UN FICHIER
 """
-   D'abord on récupère le document choisi par les utilisateurs.
-   Alors les utilisateurs doivent saisir le nom du document qu'ils veulent compter.
+   D'abord on récupère le document choisi par l'utilisateur.
+   Alors l'utilisateur doit saisir le nom du document qu'il veut compter.
 """
 
-# Ici les utilisateurs saisissent le nom du document
-Doc = input("Entrer le nom du document qu'on va compter: ")
+#Récupération du document
+Doc = input("Entrer le nom du document qu'on va compter le mot: ")
 
-#On récupère ce document.
 a = open(Doc)
 
 # On va changer en liste par ligne les contenus et on va enlever les éspaces pour que notre programme ne les tiennent pas en compte comme mot.
