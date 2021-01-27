@@ -25,8 +25,6 @@ def term_some_geo():
 	S2=U0+U1+U2+U3
 	return S2
 
-def term_some_arith():
-	return()
 
 clock=time()
 suite_geometrique()
@@ -46,5 +44,5 @@ plt.plot([clock, clock1, clock2])
 plt.grid()
 plt.ylabel('Fréquence des caractères')
 plt.xlabel('Les caractères')
-plt.title('DECRYPTER LES MESSAGES CRYPTES BY JUNO JAH')
+plt.title('DECRYPTER LES MESSAGES CRYPTES BY LANDRIS18')
 plt.show()
