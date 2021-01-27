@@ -5,7 +5,7 @@
 """
 
 #Récupération du document
-Doc = input("Entrer le nom du document qu'on va compter le mot: ")
+Doc = input("Entrer le nom du document qu'on va compter les mots: ")
 
 a = open(Doc)
 
